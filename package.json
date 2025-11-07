@@ -1,0 +1,10 @@
+{
+  "name": "mcp-woocommerce",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
